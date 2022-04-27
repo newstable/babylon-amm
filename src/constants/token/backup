@@ -1,0 +1,126 @@
+  // {
+        //     "name": "Ethereum Token",
+        //     "symbol": "ETH",
+        //     "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/ETH.png"
+        // },
+        // {
+        //     "name": "BTCB Token",
+        //     "symbol": "BTCB",
+        //     "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/BTC-icon.png"
+        // },
+        // {
+        //     "name": "Tether USD",
+        //     "symbol": "USDT",
+        //     "address": "0x55d398326f99059ff775485246999027b3197955",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/USDT-icon.png"
+        // },
+        // {
+        //     "name": "XRP Token",
+        //     "symbol": "XRP",
+        //     "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/XRP-icon.png"
+        // },
+        // {
+        //     "name": "Bitcoin Cash Token",
+        //     "symbol": "BCH",
+        //     "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/BCH-icon.png"
+        // },
+        // {
+        //     "name": "Litecoin Token",
+        //     "symbol": "LTC",
+        //     "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/LTC-icon.png"
+        // },
+        // {
+        //     "name": "Cardano Token",
+        //     "symbol": "ADA",
+        //     "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Cosmos Token",
+        //     "symbol": "ATOM",
+        //     "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Tezos Token",
+        //     "symbol": "XTZ",
+        //     "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Dai Token",
+        //     "symbol": "DAI",
+        //     "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        //     "chainId": 56,
+        //     "decimals": 18,
+        //     "logoURI": "/images/coins/DAI-icon.png"
+        // },
+        // {
+        //     "name": "Polkadot Token",
+        //     "symbol": "DOT",
+        //     "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "PancakeSwap Token",
+        //     "symbol": "CAKE",
+        //     "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "ChainLink Token",
+        //     "symbol": "LINK",
+        //     "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Trust Wallet",
+        //     "symbol": "TWT",
+        //     "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Venus",
+        //     "symbol": "XVS",
+        //     "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Uniswap",
+        //     "symbol": "UNI",
+        //     "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // },
+        // {
+        //     "name": "Filecoin",
+        //     "symbol": "FIL",
+        //     "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+        //     "chainId": 56,
+        //     "decimals": 18
+        // }

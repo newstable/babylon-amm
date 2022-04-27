@@ -1,0 +1,34 @@
+{
+    "name": "Babylonswap",
+    "timestamp": "2021-01-5T15:41:29.665Z",
+    "version": {
+        "major": 1,
+        "minor": 3,
+        "patch": 1
+    },
+    "tags": {},
+    "logoURI": "/images/coins/BNB.png",
+    "keywords": [
+        "Babylon",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "Babylon Token",
+            "symbol": "XBT",
+            "address": "0x6Cce1fef6247b722944cdA1e555754a830680F6E",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "/images/coins/Babylon.png"
+        },
+        {
+            "name": "BUSD Token",
+            "symbol": "BUSD",
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "/images/coins/BUSD.png"
+        }
+    ]
+}
+
